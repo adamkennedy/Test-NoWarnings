@@ -18,7 +18,7 @@ WriteMakefile(
 	},
 	META_MERGE => {
 		resources => {
-			repository => '	https://github.com/adamkennedy/Test-NoWarnings',
+			repository => 'https://github.com/adamkennedy/Test-NoWarnings',
 		},
 	},
 );
