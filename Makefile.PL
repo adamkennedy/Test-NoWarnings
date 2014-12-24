@@ -18,7 +18,7 @@ WriteMakefile(
 	},
 	META_MERGE => {
 		resources => {
-			repository => 'http://svn.ali.as/cpan/trunk/Test-NoWarnings',
+			repository => '	https://github.com/adamkennedy/Test-NoWarnings',
 		},
 	},
 );
